@@ -9,7 +9,7 @@ A curated collection of web software, plugins, and native scripts designed to le
 ### [WhumbleZone.com Lounge](https://whumblezone.com)
 > **The instant, ad-hoc virtual room to stream YouTube and chill with friends over high-quality voice lanes.**
 
-![WhumbleZone Lounge](https://whumblezone.com/og-image.png)
+![WhumbleZone Lounge](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)
 
 ### 🎉 Feature Set:
 * **Instant URL Rooms:** Zero registration required. Paste a YouTube or stream link, pass the lobby link to friends, and start watching immediately.
